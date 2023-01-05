@@ -3,3 +3,4 @@ pillow
 streamlit==1.16.0
 numpy
 pandas
+opencv-contrib-python-headless
